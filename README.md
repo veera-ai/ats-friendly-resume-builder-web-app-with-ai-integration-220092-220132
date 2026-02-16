@@ -1,1 +1,3 @@
-# ats-friendly-resume-builder-web-app-with-ai-integration-220092-220132
+# Project Repository
+
+This is the initial README file for the project.
